@@ -52,7 +52,7 @@
 ## 📬 Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dinukawithange)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dinukakeshara55@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]([https://www.facebook.com/yourprofile](https://www.facebook.com/dinuka-withanage))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]([https://www.facebook.com/yourprofile](https://www.facebook.com/dinukawithanage))
 
 ---
 
