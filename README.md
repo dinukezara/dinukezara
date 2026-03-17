@@ -1,77 +1,96 @@
-# Hi there 👋 I'm Dinuka Withanage.
+# 👋 Hi, I'm Dinuka Withanage
 
-## 👨‍💻 About me
-🎓 I'm currently an undergraduate student pursuing a **B.Sc. (Hons) Engineering** in Computer Science,  
-📍 **University of Moratuwa**, Sri Lanka.
-
-🔧 Currently building: **web Application**
-
-### 🌱 Interested in:
-- mathematics
-- Problem Solving
-- microarchitecture
-- low-level systems
-- embedded tech
-- software development
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00C4CC&center=true&vCenter=true&width=600&lines=Undergraduate+Engineer;Computer+Science+Student;Problem+Solver;Tech+Enthusiast" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+## 👨‍💻 About Me
+
+🎓 Undergraduate in **B.Sc. (Hons) Engineering (Computer Science)**  
+📍 University of Moratuwa, Sri Lanka  
+
+💡 Passionate about building efficient systems and solving real-world problems  
+
+🔧 Currently working on: **Web Applications & AI-integrated Systems**
 
 ---
 
-## 🎨 Tools & Software
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=Adobe%20Illustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
+## 🌱 Interests
+
+- 🧮 Mathematics & Algorithms  
+- 🧠 Problem Solving  
+- 🖥️ Microarchitecture & Low-level Systems  
+- 🔌 Embedded Systems & IoT  
+- 🌐 Full Stack Development  
 
 ---
 
-## 📘 Courses
-- Python for Beginners – Dept. of Computer Science & Engineering, University of Moratuwa  
-- [Problem Solving (Basic)](https://www.hackerrank.com/) by HackerRank  
-- Introduction to C++ by Sololearn  
-- Introduction to Java by Sololearn  
-- Java Intermediate by Sololearn
-- **Introduction to HTML** by Sololearn  
-- **Introduction to CSS** by Sololearn  
-- **JavaScript for Beginners** by Sololearn
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,linux" />
+</p>
 
 ---
 
-## 📬 Contact me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dinukawithange)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dinukakeshara55@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]([https://www.facebook.com/yourprofile](https://www.facebook.com/dinukawithanage))
+## 🎨 Tools & Design
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,pr" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dinukezara&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dinukezara&layout=compact&theme=dark)
+## 📘 Learning & Certifications
 
+- ✅ Python for Beginners – University of Moratuwa  
+- ✅ Problem Solving (Basic) – HackerRank  
+- ✅ C++ / Java / JavaScript – Sololearn  
+- ✅ HTML & CSS – Sololearn  
 
-<!--
-**dinukezara/dinukezara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dinukezara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinukezara&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dinukezara&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dinukawithange">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dinukakeshara55@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/dinukawithanage">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+💬 *"I enjoy building systems from low-level logic to full-stack applications."*
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C4CC&height=120&section=footer"/>
+</p>
